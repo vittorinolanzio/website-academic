@@ -1,6 +1,6 @@
 ---
 title: Vittorino Lanzio
-role: Professor of Artificial Intelligence
+role: Nanofabrication Engineer
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
