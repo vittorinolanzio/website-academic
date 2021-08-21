@@ -1,8 +1,9 @@
 ---
 widget: about
-widget_id: my-widget-123
+widget_id: author:about me
 headless: true
 weight: 10
+title: Vittorino Lanzio
 active: true
 design:
   columns: "2"
